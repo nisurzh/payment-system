@@ -24,3 +24,10 @@
 * Vue 3 — клиентская часть;
 * ASP.NET Core — серверная часть;
 * PostgreSQL — база данных.
+
+## Лабораторная работа №2
+
+- [Архитектура системы](docs/architecture.md)
+- [Модель данных](docs/data-model.md)
+- [Контракт API](docs/api-contract.md)
+- [Матрица трассировки требований](docs/requirements-matrix.md)
